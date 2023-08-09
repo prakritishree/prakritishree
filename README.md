@@ -1,5 +1,5 @@
+<img src="https://github.com/prakritishree/prakritishree/blob/main/Github%20profile.png" align="center" width=1800>
 <h1 align="center">Hello, I'm Prakriti Shree <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-
 <h2>🤓 About Me</h2>
 <img src="https://iconscout.com/lottie/female-web-developer-7362399" align="right" width =400>
 
