@@ -3,13 +3,13 @@
 <h2>🤓 About Me</h2>
 
 - I am a tech and design enthusiast.
-- I have a keen interest in learning Autocad Design ,Web3 ,Python Coding ,Frontend development. 
-- I am also an artist and work in water color pencils and love makind jewellary illustrations.
-- I am also looking for opportunites in content writing.
 - I have taken training in Autocad (platform - Autodesk-2020,2017).
 - I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
 - Nowadays, I am learning stack app development under Project MERN.
 - Also, I am learning WEB3 development within the WEB3 Entirety Community.
+- I have a keen interest in learning Autocad Design ,Web3 ,Python Coding ,Frontend development. 
+- I am also an artist and work in water color pencils and love makind jewellary illustrations.
+- I am also looking for opportunites in content writing.
 
 <h2>🛠 Tech Stack</h2>
 
