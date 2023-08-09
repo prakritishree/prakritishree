@@ -1,6 +1,7 @@
-<h1>Hello, I'm Prakriti Shree <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">Hello, I'm Prakriti Shree <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <h2>🤓 About Me</h2>
+<img src="https://iconscout.com/lottie/female-web-developer-7362399" align="right" width =400>
 
 - I am a tech and design enthusiast.
 - I have taken training in Autocad (platform - Autodesk-2020,2017).
