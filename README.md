@@ -8,7 +8,7 @@
 - Nowadays, I am learning stack app development under Project MERN.
 - Also, I am learning WEB3 development within the WEB3 Entirety Community.
 - I have a keen interest in learning Autocad Design ,Web3 ,Python Coding ,Frontend development. 
-- I am also an artist and work in water color pencils and love makind jewellary illustrations.
+- I am also an artist and work with water color pencils and love making jewellary illustrations.
 - I am also looking for opportunites in content writing.
 
 <h2>🛠 Tech Stack</h2>
