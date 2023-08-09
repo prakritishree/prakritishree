@@ -14,6 +14,7 @@
 <h2>🛠 Tech Stack</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width=60>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60>
