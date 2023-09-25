@@ -25,6 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60>
 <img src="https://komarev.com/ghpvc/?username=prakritishree&style=flat-square&color=blue" alt=""/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=60>
 
 
 
