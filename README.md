@@ -1,7 +1,7 @@
 <img src="https://github.com/prakritishree/prakritishree/blob/main/Github%20profile.png" align="center" width=1800>
 <h1 align="center">Hello, I'm Prakriti Shree <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h2>🤓 About Me</h2>
-<img src="https://iconscout.com/lottie/female-web-developer-7362399" align="right" width =400>
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" width =400>
 
 - I am a tech and design enthusiast.
 - I have taken training in Autocad (platform - Autodesk-2020,2017).
