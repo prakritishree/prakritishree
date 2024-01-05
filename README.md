@@ -20,6 +20,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60>
 <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=60>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width=60>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width=60>
