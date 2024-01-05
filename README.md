@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" width =400>
 
 - I am a tech and design enthusiast.
-- I have taken training in Autocad (platform - Autodesk-2020,2017).
+- I have taken training in Autocad (platform - Autodesk-2020,2017) and Aritificial Intelligence (Programming language - Python).
 - I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
 - Nowadays, I am learning stack app development under Project MERN.
 - Also, I am learning WEB3 development within the WEB3 Entirety Community.
