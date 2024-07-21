@@ -4,11 +4,11 @@
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" width =400>
 
 - I am a tech and design enthusiast.
-- I have taken training in Autocad (platform - Autodesk-2020,2017) and Aritificial Intelligence (Programming language - Python).
-- I got the opportunity to learn form IIRS-ISRO on the applications of machine learning in Urban Studies.
-- Nowadays, I am learning stack app development under Project MERN.
+- I have taken training in Autocad (platform - Autodesk-2020,2017), Aritificial Intelligence (Programming language - Python) and Machine Learning(MATLAB and Python)
+- I got the opportunity to learn form IIRS-ISRO on "the applications of machine learning in Urban Studies" and "geodata processing using Python".
+- I learnt full stack app development under Project MERN- Sabhya Mentorship Program.
 - Also, I am learning WEB3 development within the WEB3 Entirety Community.
-- I have a keen interest in learning Autocad Design ,Web3 ,Python Coding ,Frontend development. 
+- I have a keen interest in learning Machinw Learning and Artificial Intelligence. 
 - I am also an artist and work with water color pencils and love making jewellary illustrations.
 - I am also looking for opportunites in content writing.
 
